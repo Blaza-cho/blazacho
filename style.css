@@ -1,0 +1,41 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: scroll;
+    padding: 2opx;
+    text-align: center;
+}
+
+form {
+    background-color: chartreuse;
+    display: inline-block;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0ex;
+}
+
+input {
+    display: ruby-base-container;
+    width: 200px;
+    margin: 10px auto;
+    padding: auto;
+}
+
+button {
+    background: aqua;
+    color: color-mix(in srgb, color percentage, color percentage);
+    padding: 10px 20px;
+    border: 0ch;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: brown;
+}
+
+a {
+    display: inline-flex;
+    margin-top: 10px;
+    text-decoration: currentColor;
+    color: lime;
+}
